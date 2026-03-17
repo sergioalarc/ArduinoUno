@@ -71,31 +71,22 @@ Con el tiempo, Arduino ha lanzado diversas placas con mejoras importantes:
 
 ## Perifericos que necesita externos (Opcionales)
 
-- Entrada
-Botones
+Entrada:
+- Botones
+- Sensor de temperatura
+- Sensor de luz
+- Sensor de movimiento
 
-Sensor de temperatura
-
-Sensor de luz
-
-Sensor de movimiento
-
-- Salida 
-LEDs
- 
-Motores 
-
-Zumbadores (buzzer) 
-
-Pantallas LCD
-
-- Otros componentes básicos
+Salida:
+- LEDs
+- Motores 
+- Zumbadores (buzzer) 
+- Pantallas LCD
   
-Resistencias
-
-Protoboard (para conexiones)
-
-Cables
+Otros componentes básicos:
+- Resistencias
+- Protoboard (para conexiones)
+- Cables
 
 ## Comunidad y contribuciones
 El éxito de Arduino también se debe a su comunidad global, que comparte proyectos y conocimientos. Esta colaboración ha impulsado la innovación y ha convertido a Arduino en una herramienta clave en la educación tecnológica.
