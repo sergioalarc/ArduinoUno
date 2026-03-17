@@ -2,7 +2,7 @@
 
 ## Integrantes
 - Sergio Esteban Alarcon Valbuena
-- Angel Gabriel Brito Barrero
+- Angel Gabriel Brito Barreto
 ## Introduccion
 
 En el trabajo de hoy se tratarán temas esenciales sobre Arduino, comenzando por sus inicios, su evolución y las diversas placas que han aparecido a lo largo del tiempo. Además, se subrayará la relevancia de su comunidad mundial, que ha aportado considerablemente al desarrollo y a la innovación de esta plataforma. Se examinará, por último, la manera en que Arduino se ha fortalecido como una herramienta esencial para el desarrollo de soluciones tecnológicas y la educación.
