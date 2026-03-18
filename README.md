@@ -112,7 +112,25 @@ Otros componentes básicos:
 - Protoboard (para conexiones)
 - Cables
 
+## Ficha técnica de Arduino
+| Característica         | Descripción                          |
+| ---------------------- | ------------------------------------ |
+| Microcontrolador    | ATmega328P                           |
+| Voltaje de operación | 5V                                   |
+| Voltaje de entrada  | 7–12V                                |
+| Pines digitales     | 14 (6 con PWM)                       |
+| Pines analógicos    | 6                                    |
+| Memoria Flash       | 32 KB (0.5 KB usados por bootloader) |
+| SRAM                | 2 KB                                 |
+| EEPROM             | 1 KB                                 |
+| Velocidad de reloj  | 16 MHz                               |
+| Comunicación        | UART, SPI, I2C                       |
+| Conexión            | USB tipo B                           |
+| Dimensiones         | 68.6 mm x 53.4 mm                    |
+| IDE                 | Arduino IDE (basado en C/C++)        |
 
+## Descripción
+El Arduino Uno es una de las placas más populares de Arduino. Está diseñada para facilitar el aprendizaje de la electrónica y la programación, permitiendo desarrollar proyectos de manera rápida y sencilla gracias a su arquitectura abierta y su amplio soporte comunitario.
 
 ## Comunidad y contribuciones
 El éxito de Arduino también se debe a su comunidad global, que comparte proyectos y conocimientos. Esta colaboración ha impulsado la innovación y ha convertido a Arduino en una herramienta clave en la educación tecnológica.
