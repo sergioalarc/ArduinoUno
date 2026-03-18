@@ -77,7 +77,8 @@ También ofrece comunicación con otros dispositivos mediante protocolos como UA
 Arduino nació en 2005 en el Interaction Design Institute Ivrea (Italia), creado por un grupo de estudiantes que buscaban una herramienta económica y fácil de usar para el prototipado electrónico. Su primera placa destacó por su simplicidad y por utilizar un entorno de programación basado en Wiring, lo que permitió programar microcontroladores de forma más accesible.
 
 ## Creadores
-<img width="1409" height="1000" alt="image" src="https://github.com/user-attachments/assets/59444bde-4291-465c-86a7-670e5c73253b" />
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/7c0d66fd-e90a-4041-8aeb-e18873bc736a" />
+
 Los principales son:
 
 - Massimo Banzi
