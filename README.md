@@ -35,6 +35,12 @@ Si hace mucho calor → activar ventilador
 - Pantallas (mostrar información)
 
 Ejemplo: encender una luz automáticamente.
+
+## Funcionalidades de Arduino
+Arduino permite leer entradas digitales y analógicas desde sensores, botones y otros dispositivos, así como controlar salidas para encender LEDs, activar motores o relés. Es compatible con una amplia variedad de sensores, lo que facilita la medición de variables como temperatura, luz o distancia. Además, cuenta con modulación PWM para simular señales analógicas, permitiendo controlar la intensidad de luz o la velocidad de motores.
+
+También ofrece comunicación con otros dispositivos mediante protocolos como UART, SPI e I2C, lo que permite integrarlo con pantallas, módulos y otros sistemas electrónicos. Arduino puede conectarse a internet mediante módulos adicionales, facilitando el desarrollo de proyectos IoT. Una vez cargado el programa, puede funcionar de manera autónoma sin necesidad de estar conectado a un computador. Su programación es sencilla gracias al Arduino IDE basado en C/C++, y su diseño lo hace ideal para el prototipado rápido de proyectos electrónicos.
+
 ## Historia de Arduino
 Arduino nació en 2005 en el Interaction Design Institute Ivrea (Italia), creado por un grupo de estudiantes que buscaban una herramienta económica y fácil de usar para el prototipado electrónico. Su primera placa destacó por su simplicidad y por utilizar un entorno de programación basado en Wiring, lo que permitió programar microcontroladores de forma más accesible.
 
