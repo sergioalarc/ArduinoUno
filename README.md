@@ -204,3 +204,11 @@ El éxito de Arduino también se debe a su comunidad global, que comparte proyec
 
 ## Conclucion
 Arduino ha evolucionado desde un proyecto académico hasta convertirse en una plataforma global. Su enfoque en el código abierto, la accesibilidad y la innovación continúa inspirando a creadores y desarrolladores en todo el mundo.
+
+## Referencias
+
+Arduino Uno. (s.f.). En Wikipedia. Recuperado de: https://es.wikipedia.org/wiki/Arduino_Uno
+
+Tecnoloblog. (2025). ¿Qué es Arduino Uno y sus características?. Recuperado de: https://www.tecnoloblog.com
+
+PlusElectric. (2014). Arduino Uno: especificaciones y características. Recuperado de: https://pluselectric.wordpress.com
