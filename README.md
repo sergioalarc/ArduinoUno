@@ -36,6 +36,37 @@ Si hace mucho calor → activar ventilador
 
 Ejemplo: encender una luz automáticamente.
 
+
+## Características del Arduino Uno
+
+El Arduino Uno tiene las siguientes características principales:
+- Microcontrolador
+- ATmega328P
+- Frecuencia: 16 MHz
+  
+Entradas y salidas:
+- 14 pines digitales (0–13)
+- 6 con PWM (~)
+- 6 entradas analógicas (A0–A5)
+
+Alimentación:
+- Por USB o fuente externa
+- Voltaje recomendado: 7V – 12V
+
+Memoria:
+- Flash: 32 KB (para programas)
+- SRAM: 2 KB
+- EEPROM: 1 KB
+
+Programación:
+- Se programa con Arduino IDE
+- Lenguaje basado en C/C++
+
+Otros:
+- LED integrado (pin 13)
+- Puerto USB
+- Botón de reset
+- 
 ## Funcionalidades de Arduino
 Arduino permite leer entradas digitales y analógicas desde sensores, botones y otros dispositivos, así como controlar salidas para encender LEDs, activar motores o relés. Es compatible con una amplia variedad de sensores, lo que facilita la medición de variables como temperatura, luz o distancia. Además, cuenta con modulación PWM para simular señales analógicas, permitiendo controlar la intensidad de luz o la velocidad de motores.
 
@@ -134,6 +165,36 @@ Otros componentes básicos:
 | Conexión            | USB tipo B                           |
 | Dimensiones         | 68.6 mm x 53.4 mm                    |
 | IDE                 | Arduino IDE (basado en C/C++)        |
+
+## Pasos para instalar Arduino
+1. Descargar el programa
+
+Debes descargar el software oficial:
+- Arduino IDE
+- Entras a la página oficial de Arduino
+- Descargas la versión para tu sistema (Windows, Mac o Linux)
+
+2. Instalar el Arduino IDE
+
+- Abres el archivo descargado
+- Das clic en “Siguiente” hasta finalizar
+- Aceptas los permisos de instalación
+
+3. Conectar el Arduino Uno
+- Conecta la placa al computador con un cable USB
+- El sistema debería reconocerlo automáticamente
+
+4. Configurar el programa
+- Abre el Arduino IDE y selecciona:
+- Herramientas → Placa → Arduino Uno
+- Herramientas → Puerto → (elige el puerto que aparece)
+
+5. Probar que funciona
+Carga un ejemplo:
+
+- Ve a Archivo → Ejemplos → Básicos → Blink
+- Haz clic en Subir (Upload)
+- Si el LED empieza a parpadear, ya está listo
 
 ## Descripción
 El Arduino Uno es una de las placas más populares de Arduino. Está diseñada para facilitar el aprendizaje de la electrónica y la programación, permitiendo desarrollar proyectos de manera rápida y sencilla gracias a su arquitectura abierta y su amplio soporte comunitario.
