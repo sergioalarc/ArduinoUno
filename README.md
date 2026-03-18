@@ -4,6 +4,7 @@
 - Sergio Esteban Alarcon Valbuena
 - Angel Gabriel Brito Barreto
 ## Introduccion
+<img width="2176" height="1915" alt="image" src="https://github.com/user-attachments/assets/166a8316-e000-40e3-848c-323e0f9c187e" />
 
 En el trabajo de hoy se tratarán temas esenciales sobre Arduino, comenzando por sus inicios, su evolución y las diversas placas que han aparecido a lo largo del tiempo. Además, se subrayará la relevancia de su comunidad mundial, que ha aportado considerablemente al desarrollo y a la innovación de esta plataforma. Se examinará, por último, la manera en que Arduino se ha fortalecido como una herramienta esencial para el desarrollo de soluciones tecnológicas y la educación.
 
@@ -76,7 +77,7 @@ También ofrece comunicación con otros dispositivos mediante protocolos como UA
 Arduino nació en 2005 en el Interaction Design Institute Ivrea (Italia), creado por un grupo de estudiantes que buscaban una herramienta económica y fácil de usar para el prototipado electrónico. Su primera placa destacó por su simplicidad y por utilizar un entorno de programación basado en Wiring, lo que permitió programar microcontroladores de forma más accesible.
 
 ## Creadores
-
+<img width="1409" height="1000" alt="image" src="https://github.com/user-attachments/assets/59444bde-4291-465c-86a7-670e5c73253b" />
 Los principales son:
 
 - Massimo Banzi
@@ -111,6 +112,7 @@ Con el tiempo, Arduino ha lanzado diversas placas con mejoras importantes:
 - Mega: Más pines y memoria para proyectos complejos.
 - LilyPad: Diseñada para wearables.
 - Esplora: Enfocada en educación interactiva.
+<img width="1409" height="1000" alt="image" src="https://github.com/user-attachments/assets/ee169ca8-c7cd-43e7-aa96-f20cf3a19ab4" />
 
 
 ## Perifericos que tiene integrados y su funcionalidad
@@ -165,6 +167,8 @@ Otros componentes básicos:
 | Conexión            | USB tipo B                           |
 | Dimensiones         | 68.6 mm x 53.4 mm                    |
 | IDE                 | Arduino IDE (basado en C/C++)        |
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/9fb9f903-f479-4752-ae80-f5b1df3a2056" />
+
 
 ## Pasos para instalar Arduino
 1. Descargar el programa
