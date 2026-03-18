@@ -11,6 +11,30 @@ En el trabajo de hoy se tratarán temas esenciales sobre Arduino, comenzando por
 ## Que es
 Arduino es una plataforma de hardware de código abierto que ha facilitado el acceso a la electrónica y la programación. Su enfoque simple y accesible ha permitido que tanto principiantes como expertos desarrollen proyectos tecnológicos de manera sencilla.
 
+## Para que sirve
+1. El Arduino puede recibir datos de:
+- Leer información (Entradas)
+- Sensores de temperatura 
+- Sensores de luz 
+- Botones o interruptores
+- Sensores de movimiento
+Ejemplo: detectar si hay luz o si alguien pasó.
+
+2. Procesar datos
+
+- El microcontrolador analiza la información según el programa que hagas en Arduino IDE.
+
+Ejemplo:
+Si hace mucho calor → activar ventilador
+
+3. Controlar dispositivos (Salidas)
+- Puede activar o controlar:
+- LEDs (encender/apagar o regular brillo)
+- Motores (mover objetos)
+- Zumbadores (emitir sonido)
+- Pantallas (mostrar información)
+
+Ejemplo: encender una luz automáticamente.
 ## Historia de Arduino
 Arduino nació en 2005 en el Interaction Design Institute Ivrea (Italia), creado por un grupo de estudiantes que buscaban una herramienta económica y fácil de usar para el prototipado electrónico. Su primera placa destacó por su simplicidad y por utilizar un entorno de programación basado en Wiring, lo que permitió programar microcontroladores de forma más accesible.
 
@@ -87,6 +111,8 @@ Otros componentes básicos:
 - Resistencias
 - Protoboard (para conexiones)
 - Cables
+
+
 
 ## Comunidad y contribuciones
 El éxito de Arduino también se debe a su comunidad global, que comparte proyectos y conocimientos. Esta colaboración ha impulsado la innovación y ha convertido a Arduino en una herramienta clave en la educación tecnológica.
